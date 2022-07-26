@@ -1,9 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?text=프론트엔드개발자&fontSize=50&animation=fadeIn&type=waving&height=300)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bebusl&show_icons=true&theme=buefy" alt="bebusl's Github Stats" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bebusl&show_icons=true&theme=default)
+</div>
 
+## 🌱 I’m currently learning
 
+                                                                                                                   
+                                                                                                                   
 <!--
 **bebusl/bebusl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
